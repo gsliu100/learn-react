@@ -8,8 +8,8 @@
 
 * 需要在HTML head文件引入引入如下的script文件
 ```javascript
-<script src='react.js'></script>//React核心文件，提供React.createClass()方法
-<script src="react-dom.js"></script>//ReactDom文件，提供ReactDom.render()方法
+<script src='statics/react.min.js'></script>//React核心文件，提供React.createClass()方法
+<script src="statics/react-dom.min.js"></script>//ReactDom文件，提供ReactDom.render()方法
 ```
 
 * 引入browser.js文件
