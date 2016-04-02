@@ -1,7 +1,8 @@
 ###首先来看一下项目的目录结构（simple）
 
-* js文件目录下存放我们使用JSX语法编写的React组件
 * bulid目录下是经过编译后的React组件
+* js文件目录下存放我们使用JSX语法编写的React组件
+* statics目录存放react核心库文件
 * index.html为展示页
 
 ###一，直接在浏览器端编译JSX语法
