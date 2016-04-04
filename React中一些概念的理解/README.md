@@ -6,7 +6,7 @@
 
 
 
-3.ReactDOM.render()放回的是什么
+3.ReactDOM.render()返回的是什么
 
 
 
